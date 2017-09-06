@@ -1,6 +1,6 @@
 {
-  "realm": "keypress",
-  "auth-server-url": "http://localhost:8080/auth",
+  "realm": "REALM",
+  "auth-server-url": "KEYCLOAK_URL/auth",
   "ssl-required": "external",
   "resource": "keypress-web",
   "public-client": true,
