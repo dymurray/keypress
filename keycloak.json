@@ -1,5 +1,5 @@
 {
-  "realm": "REALM",
+  "realm": "keypress",
   "auth-server-url": "KEYCLOAK_URL/auth",
   "ssl-required": "external",
   "resource": "keypress-web",

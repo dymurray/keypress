@@ -3,5 +3,5 @@
  "username": "admin",
  "password": "admin",
  "grant_type": "password",
- "client_id": "CLIENT_ID"
+ "client_id": "admin-cli"
 }
