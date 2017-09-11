@@ -1,6 +1,6 @@
 {
-  "id" : "keypress",
-  "realm" : "keypress",
+  "id" : "REALM",
+  "realm" : "REALM",
   "notBefore" : 0,
   "revokeRefreshToken" : false,
   "accessTokenLifespan" : 300,
